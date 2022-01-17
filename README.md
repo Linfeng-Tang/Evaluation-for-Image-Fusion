@@ -2,9 +2,9 @@
 Quantitative evaluation for visible  and infrared image fusion.
 
 ## Our Chinese blog is as follows：
-[图像融合评估指标](https://blog.csdn.net/fovever_/article/details/106906768)
-[ 红外和可见光图像融合论文及代码整理](https://blog.csdn.net/fovever_/article/details/122288699)
-[ SeAFusion:首个结合高级视觉任务的图像融合框架](https://blog.csdn.net/fovever_/article/details/106585576)
+ - [ ] [图像融合评估指标](https://blog.csdn.net/fovever_/article/details/106906768)
+ - [ ] [红外和可见光图像融合论文及代码整理](https://blog.csdn.net/fovever_/article/details/122288699)
+ - [ ] [ SeAFusion:首个结合高级视觉任务的图像融合框架](https://blog.csdn.net/fovever_/article/details/106585576)
 
 ## If this work is helpful to you, please cite our related papers：
 ```
