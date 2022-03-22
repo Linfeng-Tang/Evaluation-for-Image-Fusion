@@ -11,11 +11,13 @@ Quantitative evaluation for visible  and infrared image fusion.
 @article{TANG2022SeAFusion,
 title = {Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network},
 journal = {Information Fusion},
+volume = {82},
+pages = {28-42},
 year = {2022},
 issn = {1566-2535},
 doi = {https://doi.org/10.1016/j.inffus.2021.12.004},
-url = {https://www.sciencedirect.com/science/article/pii/S1566253521002542},
 author = {Linfeng Tang and Jiteng Yuan and Jiayi Ma},
+publisher={Elsevier}
 }
 ```
 
