@@ -20,7 +20,15 @@ author = {Linfeng Tang and Jiteng Yuan and Jiayi Ma},
 publisher={Elsevier}
 }
 ```
-
+```
+@article{Tang2022PIAFusion,
+  title={PIAFusion: A progressive infrared and visible image fusion network based on illumination aware},
+  author={Tang, Linfeng and Yuan, Jiteng and Zhang, Hao and Jiang, Xingyu and Ma, Jiayi},
+  journal={Information Fusion},
+  year={2022},
+  publisher={Elsevier}
+}
+```
 ```
 @article{ma2021STDFusionNet,
   title={STDFusionNet: An Infrared and Visible Image Fusion Network Based on Salient Target Detection},
