@@ -23,7 +23,16 @@
 如果我们的程序对你有所帮助请引用以下论文：
 
 ```
-@article{TANG2022SeAFusion,
+@inproceedings{Tang2024DRMF,
+    title={DRMF: Degradation-Robust Multi-Modal Image Fusion via Composable Diffusion Prior},
+    author={Tang, Linfeng and Deng, Yuxin and Yi, Xunpeng and Yan, Qinglong and Yuan, Yixuan and Ma, Jiayi},
+    booktitle=Proceedings of the ACM International Conference on Multimedia,
+    year={2024}
+}
+```
+
+```
+@article{Tang2022SeAFusion,
 title = {Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network},
 author = {Linfeng Tang and Jiteng Yuan and Jiayi Ma},
 journal = {Information Fusion},
