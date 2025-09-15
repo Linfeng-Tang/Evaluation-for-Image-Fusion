@@ -1,5 +1,7 @@
 # Evaluation-for-Image-Fusion
-[2025-3-15] 我们的论文《[C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning]([https://github.com/Linfeng-Tang/C2RF))》被《International Journal of Computer Vision》(IJCV)正式接收！[[论文下载](https://link.springer.com/article/10.1007/s11263-025-02427-1)] [[Code](https://github.com/Linfeng-Tang/C2RF)]
+[2025-9-10] 我们的论文 [Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion](https://ieeexplore.ieee.org/document/11162636) 被 **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)** 正式接收! [[论文下载](https://ieeexplore.ieee.org/document/11162636)] [[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)]
+
+[2025-3-15] 我们的论文《[C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning](https://github.com/Linfeng-Tang/C2RF)》被《International Journal of Computer Vision》(IJCV)正式接收！[[论文下载](https://link.springer.com/article/10.1007/s11263-025-02427-1)] [[Code](https://github.com/Linfeng-Tang/C2RF)]
 
 [2025-02-11] 我们发布了一个用于红外和可见光视频融合的大规模数据集：[M2VD: Multi-modal Multi-scene Video Dataset](https://github.com/Linfeng-Tang/M2VD).
 
@@ -38,6 +40,29 @@
 
 ## Citation
 如果我们的程序对你有所帮助请引用以下论文：
+
+```
+@article{Tang2024Mask-DiFuser,
+  author={Tang, Linfeng and Li, Chunyu and Ma, Jiayi},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-18},
+ }
+```
+
+```
+@article{Tang2024C2RF,
+	title={C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning}, 
+	author={Tang, Linfeng and Yan, Qinglong and Xiang, Xinyu and Fang, Leyuan and Ma, Jiayi},
+	journal={International Journal of Computer Vision}, 
+	pages={5262--5280},
+	volume={133},
+	year={2025},
+}
+```
 
 ```
 @inproceedings{Tang2024DRMF,
