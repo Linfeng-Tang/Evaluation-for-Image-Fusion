@@ -1,6 +1,7 @@
 # Evaluation-for-Image-Fusion
 
 **Quantitative evaluation metrics for image fusion.**
+源代码位于 '**. /Evaluation**' ；源图像请放在 '**./Image/Source-Image**'目录下； 融合结果请放在'**./Image/Algorithm**'目录下。
 
 ## ✨ News  
 - **[2025-09-18]** 我们的论文 **《ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts》** 被 **NeurIPS 2025 (Advances in Neural Information Processing Systems)** 正式接收！[[论文下载](https://arxiv.org/pdf/2503.23356?)] [[Code](https://github.com/Linfeng-Tang/ControlFusion)]  
@@ -15,8 +16,6 @@
 - **[2022-07-29]** 我们的综述论文 **《基于深度学习的图像融合方法综述》** 被 **中国图象图形学报** 正式接收！[[论文下载](http://www.cjig.cn/thesisDetails#10.11834/jig.220422&lang=zh)]
 
 
-
-源代码位于 '**. /Evaluation**' ；源图像请放在 '**./Image/Source-Image**'目录下； 融合结果请放在'**./Image/Algorithm**'目录下。
 ## Evaluation for single image
 
      1. 修改Evaluation_for_single_image.m 文件中源图像和融合结果的路径
