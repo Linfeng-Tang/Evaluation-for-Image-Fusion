@@ -4,7 +4,7 @@
 源代码位于 '**. /Evaluation**' ；源图像请放在 '**./Image/Source-Image**'目录下； 融合结果请放在'**./Image/Algorithm**'目录下。
 
 ## ✨ News  
-- **[2026]** 我们的论文 **《》VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion》** 被 **CVPR 2026（the IEEE/CVF Conference on Computer Vision and Pattern Recognition）**.  [[Paper](https://arxiv.org/abs/2503.23359)] [[Code](https://github.com/Linfeng-Tang/VideoFusion)
+- **[2026-02-20]** 我们的论文 **《VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion》** 被 **CVPR 2026（the IEEE/CVF Conference on Computer Vision and Pattern Recognition）**.  [[Paper](https://arxiv.org/abs/2503.23359)] [[Code](https://github.com/Linfeng-Tang/VideoFusion)
 - **[2025-09-18]** 我们的论文 **《ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts》** 被 **NeurIPS 2025 (Advances in Neural Information Processing Systems)** 正式接收！[[论文下载](https://arxiv.org/pdf/2503.23356?)] [[Code](https://github.com/Linfeng-Tang/ControlFusion)]  
 - **[2025-09-10]** 我们的论文 **《Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion》** 被 **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)** 正式接收！[[论文下载](https://ieeexplore.ieee.org/document/11162636)] [[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)]  
 - **[2025-03-15]** 我们的论文 **《C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning》** 被 **International Journal of Computer Vision (IJCV)** 正式接收！[[论文下载](https://link.springer.com/article/10.1007/s11263-025-02427-1)] [[Code](https://github.com/Linfeng-Tang/C2RF)]  
